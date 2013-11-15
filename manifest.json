@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "bitsontherun downloader",
-  "description": "This extension downloads new streamings of jwplayer/bitsontherun hosting service.",
+  "description": "This extension downloads streamings of jwplayer/bitsontherun hosting service.",
   "version": "0.1",
 
   "permissions": [
